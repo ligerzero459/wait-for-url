@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "check-pkg": "^2.0.2",
-    "lintit": "^1.0.4",
+    "lintit": "^7.2.1",
     "tap": "^14.10.7"
   },
   "license": "SEE LICENSE IN LICENSE",
