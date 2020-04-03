@@ -1,11 +1,11 @@
-# wait
+# wait-for-url
 
-Helper cli utility to wait for a url to be up and ready
+Small CLI helper utility to wait for a url to be up
 
 ## Installation
 
 ```bash
-$ npm install [-g] [--save] @helpdotcom/wait
+$ npm install [-g] [--save] wait-for-url
 ```
 
 ## Usage
@@ -19,7 +19,6 @@ $ wait-for-url [--help]
 ```bash
 $ npm test
 ```
-
 
 ## Author
 
