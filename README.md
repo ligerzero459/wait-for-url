@@ -1,4 +1,4 @@
-# wait-for-url
+# wait-for-url-cli
 
 Small CLI helper utility to wait for a url to be up
 
