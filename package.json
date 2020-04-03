@@ -1,0 +1,34 @@
+{
+  "name": "wait-for-url",
+  "version": "1.0.0",
+  "description": "Small CLI helper utility to wait for a url to be up",
+  "scripts": {
+    "check": "check-pkg",
+    "lint": "lintit",
+    "pretest": "lintit && check-pkg",
+    "test": "tap test --cov"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "help": "^3.0.2",
+    "nopt": "^3.0.6"
+  },
+  "devDependencies": {
+    "check-pkg": "^2.0.2",
+    "lintit": "^1.0.4",
+    "tap": "^6.3.2"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bin": {
+    "wait-for-url": "./bin/cmd.js"
+  },
+  "author": "Ryan Mottley <ligerzero459@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ligerzero459/wait-for-url/wait"
+  },
+  "homepage": "https://github.com/ligerzero459/wait-for-url/wait",
+  "bugs": {
+    "url": "https://github.com/ligerzero459/wait-for-url/wait/issues"
+  }
+}
