@@ -77,7 +77,7 @@ test('runWait failure', (t) => {
 
   wait.runWait(opts, (err) => {
     t.type(err, Error)
-    t.equal(err.message, 'Unable to get 200 status code.', 'error message')
+    t.equal(err.message, 'URL never returned 200 status code', 'error message')
     t.end()
   })
 })
