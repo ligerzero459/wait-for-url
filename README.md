@@ -1,5 +1,8 @@
 # wait-for-url-cli
 
+![Test Suite](https://github.com/ligerzero459/wait-for-url/workflows/Test%20Suite/badge.svg)
+![Publish Package](https://github.com/ligerzero459/wait-for-url/workflows/Publish%20Package/badge.svg)
+
 Small CLI helper utility to wait for a url to be up
 
 ## Installation
