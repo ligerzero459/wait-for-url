@@ -8,7 +8,7 @@ Small CLI helper utility to wait for a url to be up
 ## Installation
 
 ```bash
-$ npm install [-g] [--save] wait-for-url
+$ npm install [-g] [--save] wait-for-url-cli
 ```
 
 ## Usage
